@@ -53,7 +53,7 @@ body {
 
 /* Hero Section */
 .hero-section {
-  background-image: url('../images/graduate.jpg');
+  background-image: url('graduate.jpg');
   background-size: cover;
   background-position: center;
   flex: 1;
